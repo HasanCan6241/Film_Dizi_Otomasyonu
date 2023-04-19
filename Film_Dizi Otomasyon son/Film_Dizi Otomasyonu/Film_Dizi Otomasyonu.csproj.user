@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Film Görüntüle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilmSayfasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Film_öner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="filmöner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Giriş.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hakkında.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KategoriArama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModArama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SikayetOlustur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="üye_ol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="İzlenecekListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

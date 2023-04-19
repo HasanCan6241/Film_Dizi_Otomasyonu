@@ -1,0 +1,235 @@
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.exe
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.deps.json
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.runtimeconfig.json
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.dll
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.pdb
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Form1.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Properties.Resources.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.AssemblyInfoInputs.cache
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.AssemblyInfo.cs
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.dll
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\refint\Film_Dizi Otomasyonu.dll
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.pdb
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.genruntimeconfig.cache
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\ref\Film_Dizi Otomasyonu.dll
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Giriş.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Admin.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Hakkında.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Film_Görüntüle.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.CopyComplete
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Admin.resources
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Film_Görüntüle.resources
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Form1.resources
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Giriş.resources
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Hakkında.resources
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Properties.Resources.resources
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.SikayetOlustur.resources
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.İzlenecekListesi.resources
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.AssemblyInfo.cs
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.dll
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\refint\Film_Dizi Otomasyonu.dll
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.pdb
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.exe
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.deps.json
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.runtimeconfig.json
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.dll
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.pdb
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.CopyComplete
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.genruntimeconfig.cache
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\ref\Film_Dizi Otomasyonu.dll
+C:\Users\hp\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.FilmSayfasi.resources
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.exe
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.deps.json
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.runtimeconfig.json
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.dll
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.pdb
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Admin.resources
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Film_Görüntüle.resources
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.FilmSayfasi.resources
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Form1.resources
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Giriş.resources
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Hakkında.resources
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Properties.Resources.resources
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.SikayetOlustur.resources
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.İzlenecekListesi.resources
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.AssemblyInfoInputs.cache
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.AssemblyInfo.cs
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.CopyComplete
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.dll
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\refint\Film_Dizi Otomasyonu.dll
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.pdb
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.genruntimeconfig.cache
+C:\Users\ONUR\Desktop\Hasan\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\ref\Film_Dizi Otomasyonu.dll
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.exe
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.deps.json
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.runtimeconfig.json
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.dll
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.pdb
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Admin.resources
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Film_Görüntüle.resources
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.FilmSayfasi.resources
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Form1.resources
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Giriş.resources
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Hakkında.resources
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Properties.Resources.resources
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.SikayetOlustur.resources
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.İzlenecekListesi.resources
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.AssemblyInfoInputs.cache
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.AssemblyInfo.cs
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.CopyComplete
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.dll
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\refint\Film_Dizi Otomasyonu.dll
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.pdb
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.genruntimeconfig.cache
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\ref\Film_Dizi Otomasyonu.dll
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.filmöner.resources
+C:\Users\ONUR\Desktop\Kadir\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.üye_ol.resources
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Admin.resources
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Film_Görüntüle.resources
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.FilmSayfasi.resources
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.filmöner.resources
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Form1.resources
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Giriş.resources
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Hakkında.resources
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Properties.Resources.resources
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.SikayetOlustur.resources
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.üye_ol.resources
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.İzlenecekListesi.resources
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.AssemblyInfo.cs
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.dll
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\refint\Film_Dizi Otomasyonu.dll
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.pdb
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.exe
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.deps.json
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.runtimeconfig.json
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.dll
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.pdb
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.CopyComplete
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.genruntimeconfig.cache
+C:\Users\hp\Desktop\Film diz\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\ref\Film_Dizi Otomasyonu.dll
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.exe
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.deps.json
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.runtimeconfig.json
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.dll
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.pdb
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Admin.resources
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Film_Görüntüle.resources
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.FilmSayfasi.resources
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.filmöner.resources
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Form1.resources
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Giriş.resources
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Hakkında.resources
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Properties.Resources.resources
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.SikayetOlustur.resources
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.üye_ol.resources
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.İzlenecekListesi.resources
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.AssemblyInfoInputs.cache
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.AssemblyInfo.cs
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.CopyComplete
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.dll
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\refint\Film_Dizi Otomasyonu.dll
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.pdb
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.genruntimeconfig.cache
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\ref\Film_Dizi Otomasyonu.dll
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Film_öner.resources
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.KategoriArama.resources
+C:\Users\ONUR\Desktop\Film_Dizi Otomasyonu\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.ModArama.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.exe
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.deps.json
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.runtimeconfig.json
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.dll
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\Film_Dizi Otomasyonu.pdb
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Admin.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Film_Görüntüle.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.FilmSayfasi.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Film_öner.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.filmöner.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Form1.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Giriş.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Hakkında.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.KategoriArama.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.ModArama.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.Properties.Resources.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.SikayetOlustur.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.üye_ol.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi_Otomasyonu.İzlenecekListesi.resources
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.AssemblyInfoInputs.cache
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.AssemblyInfo.cs
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.csproj.CopyComplete
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.dll
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\refint\Film_Dizi Otomasyonu.dll
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.pdb
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\Film_Dizi Otomasyonu.genruntimeconfig.cache
+C:\Users\hasan can\c# projeler\Film_Dizi Otomasyon son\Film_Dizi Otomasyonu\obj\Debug\net6.0-windows\ref\Film_Dizi Otomasyonu.dll
